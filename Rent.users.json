@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "6730d1408ffa21fe778491d8"
+  },
+  "name": "NOKITHA V M",
+  "email": "nokitha12a1@gmail.com",
+  "password": "$2a$10$b8fR64BTczbiy4AKTaTFHumZVY9IHznX7.Wx.OZvH4.tAhondS.a2",
+  "type": "Owner",
+  "granted": "ungranted",
+  "__v": 0
+}]
